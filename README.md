@@ -18,6 +18,7 @@ Reeve explained that virtual reality made the experience more realistic than vid
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3772979/ 
 
 https://www.healthline.com/health/mental-health/meditation-virtual-reality#Why-VR-meditation-instead-of-regular-meditation 
+
 Meditation has been used for many years as a way for people to reach inner peace “Mindfulness meditation has met increasing interest as a therapeutic strategy for anxiety disorders, ... This is the first randomized, controlled trial comparing the manualized Mindfulness-Based Stress Reduction (MBSR) program with an active control for Generalized Anxiety Disorder, a disorder characterized by chronic worry and physiological hyperarousal symptoms.” (Hoge et al., 2013) This study looked at how meditation could reduce anxiety not many of these studies have been done, it looked at a random group meditating for a period then tested their anxiety and stress levels for days after their meditation session. “These results suggest that MBSR may have a beneficial effect on anxiety symptoms in GAD, and may also improve stress reactivity and coping as measured in a laboratory stress challenge.” (Hoge et al., 2013)  The study only concluded meditation may have an impact on reducing anxiety and stress, but this study was important for the start of more people looking into the wellbeing of meditation for anxiety, it lead this look into VR being used for meditation instead, “The problem with anxiety, of course, is that it makes my mind extra jumpy and extra ready to yank right out of the Zen bliss of meditation and into a hurricane of worries and to-dos. For this reason, unassisted silent meditation is, I believe, particularly difficult for people with anxiety.
 Virtual reality helps me overcome this by engaging my senses. With a vista of gorgeous scenery before my eyes and music in my ears, I’m far better able to center myself in the moment than when I try to clear my head of my own volition.
 VR gives me something to focus on besides the anxious or intrusive thoughts that constantly vie for headspace.” (Garone, 2019)
@@ -25,10 +26,10 @@ VR gives me something to focus on besides the anxious or intrusive thoughts that
 
 
 
-
-
 Garone, S., 2019. How Virtual Reality Meditation Helps Me Control My Anxiety. [online] Healthline. Available at: <https://www.healthline.com/health/mental-health/meditation-virtual-reality#Why-VR-meditation-instead-of-regular-meditation> [Accessed 22 October 2021].
+
 Hoge, E., Bui, E., Marques, L., Metcalf, C., Morris, L., Robinaugh, D., Worthington, J., Pollack, M. and Simon, N., 2013. Randomized Controlled Trial of Mindfulness Meditation for Generalized Anxiety Disorder. The Journal of Clinical Psychiatry, 74(08), pp.786-792.
+
 Hughes, O., 2020. Mental health trust introduces virtual reality for phobia treatment. [online] Digital Health. Available at: <https://www.digitalhealth.net/2020/02/mental-health-trust-introduces-virtual-reality-for-phobia-treatment/> [Accessed 20 October 2021].
 
 Kent, C., 2021. Using virtual reality to overcome anxious social avoidance - Verdict Medical Devices. [online] Medicaldevice-network.com. Available at: <https://www.medicaldevice-network.com/features/using-virtual-reality-to-overcome-anxious-social-avoidance/> [Accessed 19 October 2021].
